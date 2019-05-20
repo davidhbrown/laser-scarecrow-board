@@ -1,4 +1,5 @@
-#Discrete electronic parts
+Discrete electronic parts
+-------------------------
 These are soldered to the March '18 board revision.
 
 + C1 100uF electrolytic capacitor
