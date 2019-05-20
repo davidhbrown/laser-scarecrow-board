@@ -1,6 +1,6 @@
 Discrete electronic parts
 -------------------------
-These are soldered to the May '18 board revision.
+These are through-hole soldered to the May '18 board revision.
 
 + C1 100uF electrolytic capacitor
 + D1 1N5817 Schottky diode
